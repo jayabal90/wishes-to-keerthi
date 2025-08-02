@@ -16,7 +16,7 @@ body{
     background: linear-gradient(to top, #ec8e4f, #DA0B08);
     border-radius: 4px;
     height: 150vh;
-    width: 90vw;
+    width: 110vw;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
     text-align: center;
     display: flex;
