@@ -51,7 +51,7 @@ body{
     }
 }
 img.birthday{
-    max-height: 70vh;
+    max-height: 50vh;
 }
 .text{
     padding: 1rem;
@@ -79,8 +79,8 @@ body{
     perspective: 1000px;
 }
 .card{
-    width: 300px;
-    height: 500px;
+    width: 280px;
+    height: 400px;
     position: absolute;
     top: 200px;
     left: 250px;
