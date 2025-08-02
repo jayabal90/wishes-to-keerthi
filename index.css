@@ -15,8 +15,8 @@ body{
     background: -moz-linear-gradient(bottom, #ec8e4f, #DA0B08);
     background: linear-gradient(to top, #ec8e4f, #DA0B08);
     border-radius: 4px;
-    height: 200vh;
-    width: 150vw;
+    height: 160vh;
+    width: 120vw;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
     text-align: center;
     display: flex;
