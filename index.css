@@ -80,10 +80,10 @@ body{
 }
 .card{
     width: 280px;
-    height: 400px;
+    height: 360px;
     position: absolute;
-    top: 200px;
-    left: 250px;
+    top: 100px;
+    left: 230px;
     transition: 2s;
     transform-style: preserve-3d;
 }
